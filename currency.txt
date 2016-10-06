@@ -1,0 +1,220 @@
+Australian Dollar: AUD
+Namibian Dollar: NAD
+Solomon Islands Dollar: SBD
+ZWN: ZWN
+East Caribbean Dollar: XCD
+Bulgarian Lev: BGN
+Syrian Pound: SYP
+Saudi Riyal: SAR
+Bolivian Boliviano: BOB
+French UIC-Franc: XFU
+Armenian Dram: AMD
+Kazakhstani Tenge: KZT
+Spanish Peseta: ESP
+Bahamian Dollar: BSD
+Malaysian Ringgit: MYR
+Israeli New Sheqel: ILS
+Icelandic Króna: ISK
+AYM: AYM
+Panamanian Balboa: PAB
+Mexican Peso: MXN
+US Dollar (Next day): USN
+Bosnia-Herzegovina Convertible Mark: BAM
+Cayman Islands Dollar: KYD
+Pakistani Rupee: PKR
+Rwandan Franc: RWF
+Zambian Kwacha: ZMK
+Papua New Guinean Kina: PGK
+Andorran Peseta: ADP
+Canadian Dollar: CAD
+Liberian Dollar: LRD
+São Tomé and Príncipe Dobra: STD
+Greek Drachma: GRD
+Bahraini Dinar: BHD
+Eritrean Nakfa: ERN
+Turkmenistani Manat: TMT
+Falkland Islands Pound: FKP
+Bangladeshi Taka: BDT
+Latvian Lats: LVL
+Euro: EUR
+Algerian Dinar: DZD
+Lebanese Pound: LBP
+Ukrainian Hryvnia: UAH
+Hong Kong Dollar: HKD
+Malagasy Ariary: MGA
+Lithuanian Litas: LTL
+Luxembourgian Franc: LUF
+Portuguese Escudo: PTE
+Gibraltar Pound: GIP
+Macanese Pataca: MOP
+Lesotho Loti: LSL
+Surinamese Guilder: SRG
+Congolese Franc: CDF
+European Monetary Unit: XBB
+Czech Republic Koruna: CZK
+Costa Rican Colón: CRC
+Samoan Tala: WST
+Burundian Franc: BIF
+Qatari Rial: QAR
+Polish Zloty: PLN
+Paraguayan Guarani: PYG
+Georgian Lari: GEL
+Turkish Lira: TRY
+Tanzanian Shilling: TZS
+Sucre: XSU
+Kenyan Shilling: KES
+Gambian Dalasi: GMD
+Turkmenistani Manat (1993-2009): TMM
+US Dollar (Same day): USS
+Laotian Kip: LAK
+Chilean Peso: CLP
+Angolan Kwanza: AOA
+Ghanaian Cedi: GHS
+Hungarian Forint: HUF
+Romanian Leu: RON
+Zimbabwean Dollar (2008): ZWR
+Libyan Dinar: LYD
+Djiboutian Franc: DJF
+Turkish Lira (1922-2005): TRL
+Slovak Koruna: SKK
+Ethiopian Birr: ETB
+Slovenian Tolar: SIT
+Special Drawing Rights: XDR
+Aruban Florin: AWG
+CFA Franc BCEAO: XOF
+Jordanian Dinar: JOD
+Nicaraguan Córdoba: NIO
+Russian Ruble: RUB
+Croatian Kuna: HRK
+Macedonian Denar: MKD
+Colombian Peso: COP
+United Arab Emirates Dirham: AED
+Moldovan Leu: MDL
+Myanma Kyat: MMK
+Chinese Yuan: CNY
+Chilean Unit of Account (UF): CLF
+Sierra Leonean Leone: SLL
+Afghan Afghani (1927-2002): AFA
+US Dollar: $
+Swedish Krona: SEK
+Jamaican Dollar: JMD
+Uzbekistan Som: UZS
+European Composite Unit: XBA
+Serbian Dinar: RSD
+British Pound Sterling: GBP
+Russian Ruble (1991-1998): RUR
+Vietnamese Dong: VND
+Yemeni Rial: YER
+Cambodian Riel: KHR
+Brazilian Real: BRL
+Bhutanese Ngultrum: BTN
+Malagasy Franc: MGF
+Italian Lira: ITL
+Cuban Convertible Peso: CUC
+Barbadian Dollar: BBD
+Thai Baht: THB
+Nigerian Naira: NGN
+Sudanese Pound: SDG
+New Taiwan Dollar: TWD
+Tongan Pa?anga: TOP
+Comorian Franc: KMF
+Peruvian Nuevo Sol: PEN
+Norwegian Krone: NOK
+Azerbaijani Manat (1993-2006): AZM
+Moroccan Dirham: MAD
+Ghanaian Cedi (1979-2007): GHC
+Uruguayan Peso: UYU
+CFA Franc BEAC: XAF
+Cape Verdean Escudo: CVE
+Philippine Peso: PHP
+Swazi Lilangeni: SZL
+Vanuatu Vatu: VUV
+Fijian Dollar: FJD
+South Sudanese Pound: SSP
+German Mark: DEM
+Belarusian Ruble: BYR
+Japanese Yen: JPY
+French Franc: FRF
+Indian Rupee: INR
+Venezuelan Bolívar (1871-2008): VEB
+CFP Franc: XPF
+Silver: XAG
+Yugoslavian New Dinar (1994-2002): YUM
+South African Rand: ZAR
+Irish Pound: IEP
+Guinean Franc: GNF
+European Unit of Account (XBC): XBC
+Bulgarian Hard Lev: BGL
+Dominican Peso: DOP
+Finnish Markka: FIM
+Austrian Schilling: ATS
+Guatemalan Quetzal: GTQ
+Timorese Escudo: TPE
+Nepalese Rupee: NPR
+Albanian Lek: ALL
+Kuwaiti Dinar: KWD
+French Gold Franc: XFO
+Tajikistani Somoni: TJS
+Trinidad and Tobago Dollar: TTD
+Salvadoran Colón: SVC
+Romanian Leu (1952-2006): ROL
+Indonesian Rupiah: IDR
+Dutch Guilder: NLG
+Botswanan Pula: BWP
+New Zealand Dollar: NZD
+Guinea-Bissau Peso: GWP
+Singapore Dollar: SGD
+ZMW: ZMW
+Belgian Franc: BEF
+Egyptian Pound: EGP
+Malawian Kwacha: MWK
+Kyrgystani Som: KGS
+Cypriot Pound: CYP
+Danish Krone: DKK
+Honduran Lempira: HNL
+Seychellois Rupee: SCR
+Argentine Peso: ARS
+Ugandan Shilling: UGX
+Surinamese Dollar: SRD
+Zimbabwean Dollar (1980-2008): ZWD
+Maldivian Rufiyaa: MVR
+Saint Helena Pound: SHP
+ADB Unit of Account: XUA
+Serbian Dinar (2002-2006): CSD
+Mauritanian Ouguiya: MRO
+Maltese Lira: MTL
+Bolivian Mvdol: BOV
+Mozambican Metical (1980-2006): MZM
+Sudanese Dinar (1992-2007): SDD
+Estonian Kroon: EEK
+Iranian Rial: IRR
+Netherlands Antillean Guilder: ANG
+Guyanaese Dollar: GYD
+Swiss Franc: CHF
+Palladium: XPD
+European Unit of Account (XBD): XBD
+Tunisian Dinar: TND
+Mozambican Metical: MZN
+Iraqi Dinar: IQD
+Venezuelan Bolívar: VEF
+Mexican Investment Unit: MXV
+Haitian Gourde: HTG
+Mauritian Rupee: MUR
+Sri Lankan Rupee: LKR
+Gold: XAU
+Platinum: XPT
+Afghan Afghani: AFN
+South Korean Won: KRW
+North Korean Won: KPW
+Omani Rial: OMR
+Zimbabwean Dollar (2009): ZWL
+Unknown Currency: XXX
+Testing Currency Code: XTS
+Brunei Dollar: BND
+Belize Dollar: BZD
+Mongolian Tugrik: MNT
+Bermudan Dollar: BMD
+Cuban Peso: CUP
+Belarusian New Ruble (1994-1999): BYB
+Somali Shilling: SOS
+Azerbaijani Manat: AZN
